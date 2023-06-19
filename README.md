@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnkitBhati1
-- 👀 I’m interested in Backend
-- 🌱 I’m currently learning Djnago rest apis
+- 👀 I’m interested in Backend, AI/ML
+- 🌱 I’m currently learning Django rest apis
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
